@@ -1,5 +1,5 @@
 # Perfil de Gonzalo Terrones
-## AI Engineer Desarrollador Full Stack
+## AI Engineer - Desarrollador Full Stack
 ### Hola a todos, me encuentro abierto a propuestas laborales
 - 👋 Me interesa participar en preoyectos de culaquier tamaño y objetivo
 - 😄
